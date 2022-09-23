@@ -14,7 +14,7 @@
         android:theme="@style/Theme.Motivation"
         tools:targetApi="31">
         <activity
-            android:name=".EstudoConstraintActivity"
+            android:name=".Estudo.EstudoConstraintActivity"
             android:exported="false" />
         <activity
             android:name=".ui.UserNameActivity"
